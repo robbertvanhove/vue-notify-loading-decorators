@@ -1,5 +1,5 @@
 {
-	"name": "vue-notify-loading",
+	"name": "vue-notify-loading-decorators",
 	"version": "1.0.0",
 	"description": "",
 	"main": "dist/index.js",
