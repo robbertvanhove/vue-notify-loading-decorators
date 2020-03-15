@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "dist/index.js",
+	"repository": {"url": "https://github.com/robbertvanhove/vue-notify-loading-decorators"},
 	"scripts": {
 		"test": "jest",
 		"test:watch": "jest --watchAll",
