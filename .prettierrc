@@ -1,0 +1,13 @@
+{
+	"printWidth": 100,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"quoteProps": "as-needed",
+	"trailingComma": "none",
+	"bracketSpacing": true,
+	"NOTE_BRACKETSPACING": "does not work on brackets inside interpolated strings",
+	"arrowParens": "avoid",
+	"jsxBracketSameLine": true,
+	"endOfLine": "auto"
+}
