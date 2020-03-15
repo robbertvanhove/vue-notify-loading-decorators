@@ -3,7 +3,14 @@ A library for Vue.js to toggle a loading indicator with decorators on a componen
 
 (use along with [vue-class-component](https://github.com/vuejs/vue-class-component))
 
-Example
+## Installation
+```npm install vue-notify-loading-decorators```
+
+or
+
+```yarn add vue-notify-loading-decorators```
+
+## Example
 ```vue
 <template>
   <div>
@@ -63,4 +70,4 @@ class SomeDynamicComponent extends Vue {
 
 ```
 
-##
+
