@@ -55,15 +55,15 @@ class SomeDynamicComponent extends Vue {
   loading: boolean = false; 
 
    async loadSomething() {
-    this.loading = true;
+    this.isLoading = true;
     this.products = await service.getAll();
-    this.loading = false;  
+    this.isLoading = false;  
   }
  
    async loadSomethingElse() {
-    this.loading = true;
+    this.isLoading = true;
     await someAction();
-    this.loading = false;
+    this.isLoading = false;
   }  
 }
 </script>
